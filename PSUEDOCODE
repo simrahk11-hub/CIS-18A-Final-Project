@@ -1,0 +1,33 @@
+PSUEDOCODE
+
+START
+
+DISPLAY menu options 
+Read user input
+
+IF choice = 1
+    Show shoes
+IF choice = 2
+    Ask for shoe, size, quantity
+    Create order
+IF choice = 3
+    IF order exists
+        Ask for date and time
+    ELSE
+        Show error
+IF choice = 4
+    IF order exists
+        Show summary
+    ELSE
+        Show error
+IF choice = 5
+    IF order exists
+        Save to file
+    ELSE
+        Show error
+IF choice = 6
+    Exit program
+
+REPEAT until exit
+
+END
