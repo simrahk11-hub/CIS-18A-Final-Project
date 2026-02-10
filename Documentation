@@ -1,0 +1,19 @@
+DOCUMENTATION
+
+MyShoeStore is the name of my Java business program, which is what I have chosen to do for this final project. 
+This program simulates the experience of a small shoe store ordering site. 
+The main goal of mine for this program is to give users the option to view my shoe catalog, place an order for the shoes, schedule delivery if needed, view the order receipt, and save their order to a file. 
+This program also includes many programming concepts such as classes, inheritance, arrays, interfaces, and file handling. 
+The program’s functionality is that it starts by displaying a menu to the user and guides them through the different options. 
+They can view the shoe catalog to see all available shoes, their prices, and sizes, and then they can place an order by selecting their preferred shoe, shoe size, and quantity. 
+After placing the order, the user is given the option to schedule delivery for their order and the delivery date and time, and then they can also view a summary of the order, sort of like a receipt.
+The program also allows the user to save their order information to a text file. 
+The target audience for my program includes people who are not familiar with Java, users who want a simple way to order shoes, and students who want to learn what a basic business program in Java looks like.
+The program is designed to be simple and easy to follow, menu-based, and beginner-friendly so that users can understand how ordering systems and business logic are handled in Java.
+One of the biggest strengths of this program is the easy-to-follow structure and its organization.
+Each class has a certain purpose, which makes the code easier to read and understand and also makes editing it easier.
+The menu is very user-friendly, especially for Java beginners, and it also includes input validation for the menu and shoe selections to prevent crashes and/or incorrect data. 
+One of the weaknesses of this program would be that it is run entirely through the console, which may not be the best option for all users.
+And the shoe catalog is fixed, so products and their information cannot be updated while the program is running, which can cause some issues. 
+For future improvements, I could add a lot of other features like sales tax calculations, discounts, or customer profiles, and also adding a option to pick up the order.
+Also adding a graphical interface would be the next big step, since it would make the program more realistic.
